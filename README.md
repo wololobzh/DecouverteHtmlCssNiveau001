@@ -1,3 +1,3 @@
 # DecouverteHtmlCssNiveau001
 
-Reproduire la maquette présenté par l'image Consigne.png
+Reproduire la maquette présentée par l'image Consigne.png
